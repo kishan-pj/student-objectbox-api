@@ -21,6 +21,7 @@ class Batch {
   //Constructor
   Batch(this.batchid, this.batchName, {this.id = 0});
 
+
   // factory create only one contructor
   // from json receive from the backend
   // to json send to the backend

@@ -1,0 +1,4 @@
+#Wed Jan 18 21:16:28 NPT 2023
+base.0=D\:\\batch_student_objbox_api_starter-main\\batch_student_objbox_api_starter-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

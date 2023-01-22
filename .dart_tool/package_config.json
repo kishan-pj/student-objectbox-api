@@ -339,9 +339,9 @@
     },
     {
       "name": "mime",
-      "rootUri": "file:///C:/Users/Ravij/Downloads/flutter_windows_3.3.10-stable/flutter/.pub-cache/hosted/pub.dartlang.org/mime-1.0.3",
+      "rootUri": "file:///C:/Users/Ravij/Downloads/flutter_windows_3.3.10-stable/flutter/.pub-cache/hosted/pub.dartlang.org/mime-1.0.4",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.18"
     },
     {
       "name": "multi_select_flutter",
@@ -668,7 +668,7 @@
       "languageVersion": "2.18"
     }
   ],
-  "generated": "2023-01-18T07:04:44.255534Z",
+  "generated": "2023-01-24T06:34:17.367311Z",
   "generator": "pub",
   "generatorVersion": "2.18.6"
 }

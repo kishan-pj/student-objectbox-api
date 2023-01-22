@@ -12,6 +12,7 @@ abstract class StudentRepository {
 class StudentRepositoryImpl extends StudentRepository {
   @override
   Future<int> addStudent(File? file, Student student) async {
+    
     return StudentDataSource().addStudent(file, student);
   }
 
